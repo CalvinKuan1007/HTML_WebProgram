@@ -1,0 +1,9 @@
+p{
+    background-color: cadetblue;
+    padding: 16px;
+    text-align:center;
+    display:none;
+}
+div:hover p{
+    display:block;
+}
