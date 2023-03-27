@@ -1,0 +1,10 @@
+div{
+    background-color: coral;
+    color:burlywood;
+    padding: 16px;
+    text-align:center;
+}
+
+div:hover{
+    background-color: aqua;
+}
