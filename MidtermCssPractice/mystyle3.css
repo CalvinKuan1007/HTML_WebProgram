@@ -1,15 +1,14 @@
-input[type=text]{
+input[type=text] {
     width: 300px;
     display:block;
     margin-bottom: 40px;
-    background-color: darkseagreen;
-    color:gray
+    background-color: aquamarine;
+    color: gray;
 }
-
-input[type=button]{
+input[type=button] {
     width: 80px;
+    display:block;
     margin-left: 200px;
-    display: block;
     background-color: black;
-    color: white
+    color: yellow;
 }

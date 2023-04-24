@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="管奕凱">
+    <meta name="ID" content="110403046">
+    <title>Tour</title>
+    <link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
+    <table border="3">
+        <caption><h1>蘭嶼觀光景點介紹</h1></caption>
+        <thead>
+        <tr>
+            <th><h1>名稱</h1></th><th><h1>簡略介紹</h1></th><th><h1>參考資料</h1></th>
+        </tr>
+    </thead>
+      
+
+        <tbody>
+            <tr>
+                <td>
+                    <center>
+                        <br><p><h2>蘭嶼航空站</h2></p><br>
+                        <img src="pic2.JPG" alt="This is a picture" width="100%">
+                    </center>
+                    <br>
+                </td>
+
+                <td>
+                    <h2>
+                   <ol>
+                        <li><b>歷史</b></li>
+                        <ul>
+                            <li>蘭嶼機場於1964年11月建成，最初由臺灣警備總司令部蘭嶼地區警備指揮部職業訓練總隊管理。</li>
+                        </ul>
+                        <li><b>特色</b></li>
+                        <ul>
+                            <li>外型以達悟族圖騰裝飾並將達悟族拼板舟造型呈現在建築物上，體現蘭嶼的文化特色。</li>
+                        </ul>
+                    </ol>
+                </h2>
+                </td>
+
+                <td>
+                    <a href="https://zh.wikipedia.org/zh-tw/%E8%98%AD%E5%B6%BC%E6%A9%9F%E5%A0%B4" target="_blank">蘭嶼機場介紹</a>
+                </td>
+            </tr>
+
+            <tr>
+                
+                <td>
+                    <center>
+                        <br><h2>朗島部落灘頭</h2><br>
+                        <img src="pic3.JPG" alt="This is a picture" width="90%">
+                    </center>
+                    <br>
+                </td>
+
+                <td>
+                    <h2>
+                    <ol>
+                        <li><b>名字意涵</b></li>
+                        <ul>
+                            <li>「朗島部落」的蘭嶼名為iraralay，指為有禮貌、和善的意涵。</li>
+                        </ul>
+                        <li><b>特色</b></li>
+                        <ul>
+                            <li>「朗島部落」為蘭嶼領域最大的部落，也比其他部落有著較多的奇岩異石。此處為特色勇士舞的發源地，更是蘭嶼地下屋最原始且數量最多的村落。</li>
+                        </ul>
+                    </ol>
+                    </h2>
+                </td>
+
+                <td>
+                    <a href="http://www.lanyu.gov.tw/iframcontent_edit.php?typeid=2517" target="_blank">朗島部落介紹</a>
+                </td>
+            
+            </tr>
+
+            <tr>
+                
+                <td>
+                    <center>
+                        <br><p><h2>蘭嶼氣象站</h2></p><br>
+                        <img src="pic4.JPG" alt="This is a picture" width="90%">
+                    </center>
+                    <br>
+                </td>
+
+                <td>
+                    <h2>
+                    <ol>
+                        <li><b>歷史</b></li>
+                        <ul>
+                            <li>蘭嶼氣象站海拔約324公尺，是日據時期的建築，由臺灣總督府強行徵調島上的達悟族(舊稱雅美族)人修建而成，二次大戰時曾被盟軍轟炸，局部毀損，主建築及辦公室牆上迄今仍留有彈痕。</li>
+                        </ul>
+                        <li><b>特色</b></li>
+                        <ul>
+                            <li>蘭嶼氣象站位於制高點，地勢高聳又具有360度遼闊視野，東邊可俯視東清灣和野銀舊部落，西邊鳥瞰八代灣，南望連綿的山巒和茂密的山林，蘭嶼島上幾乎可盡收眼底。這裡也是觀賞日出的極佳景點，因地勢偏高，可觀賞靠近海平面的旭日東昇之美。</li>
+                        </ul>
+                    </ol>
+                    </h2>
+                </td>
+
+                <td>
+                    <a href="https://tour.taitung.gov.tw/zh-tw/attraction/details/408" target="_blank">蘭嶼氣象站介紹</a>
+                </td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <tr>
+        
+                <td>
+                    <center>
+                        <br><p><h2>東清灣</h2></p><br>
+                        <img src="pic1.JPG" alt="This is a picture" width="90%">
+                    </center>
+                    <br>
+                </td>
+
+                <td>
+                    <h2>
+                    <ol>
+                        <li><b>地形介紹</b></li>
+                        <ul>
+                            <li>東清灣位於蘭嶼東部，全島最大的海灣地形，整個海灣北起自東清部落前方，往南延伸約半公里，相當狹長。而一般所稱，停放了許多拼板舟的東清灣，則是指東清部落前，被礁石圍繞而成的天然港灣「東清港澳」</li>
+                        </ul>
+                        <li><b>特色</b></li>
+                        <ul>
+                            <li>東清灣是蘭嶼迎接日出的熱門地點，停放在岸上的拼板舟加上千變萬化的日出雲彩，充分呈現出蘭嶼最吸引人的自然與人文樣貌。</li>
+                        </ul>
+                    </ol>
+                    </h2>
+                </td>
+
+                <td>
+                    <a href="https://tour.taitung.gov.tw/zh-tw/attraction/details/391" target="_blank">東清灣介紹</a>
+                </td>
+
+            </tr>
+        
+        </tfoot>
+
+
+    </table>
+    
+</body>
+</html>

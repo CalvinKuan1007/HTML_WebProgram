@@ -1,0 +1,13 @@
+div{
+    width:100px;
+    height:100px;
+    background-color: cornflowerblue;
+    transition:width 3s,height 3s,transform 3s , background 2s ease-in;
+}
+
+div:hover{
+    width:400px;
+    height:400px;
+    background: deepskyblue;
+    transform: rotate(180deg);
+}

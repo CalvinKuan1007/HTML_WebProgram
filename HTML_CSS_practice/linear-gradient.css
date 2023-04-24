@@ -1,0 +1,20 @@
+div{
+    text-align: center;
+    margin:auto;
+    color:black;
+    font-size:48px;
+    color:#DDDDDD;
+}
+
+#rainbow{
+    height: 64px;
+    background-color: gray;
+    background-image: linear-gradient(to right,
+        red,
+        orange,
+        yellow,
+        green,
+        blue,
+        indigo,
+        purple);
+}

@@ -1,0 +1,46 @@
+thead {
+    background-color: burlywood;
+}
+
+tbody tr:first-child{
+    background-color: khaki;
+    color:blue;
+}
+
+tbody tr:nth-child(2){
+    background-color: cadetblue;
+    color:blueviolet
+}
+
+tbody tr:nth-child(3){
+    background-color:darkseagreen ;
+    color:darkslateblue
+}
+
+tfoot {
+    background-color: lightblue;
+    color:deepskyblue
+}
+tbody tr:nth-child(odd):hover{
+    opacity: 0.4;
+}
+
+a[target="_blank"] {
+    background-color: azure;
+}
+
+a:link{
+    color:green;
+}
+
+a:visited{
+    color:red;
+}
+
+a:hover{
+    color:sienna;
+}
+
+a:active{
+    color:blue;
+}
